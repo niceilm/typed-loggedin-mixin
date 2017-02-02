@@ -1,0 +1,10 @@
+{
+  "name": "loggedin-mixin",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/nabiltntn/loggedin-mixin",
+  "version": "0.1.0",
+  "global": true,
+  "dependencies": {},
+  "globalDependencies": {
+  }
+}
